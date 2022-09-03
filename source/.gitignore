@@ -1,7 +1,0 @@
-.DS_Store
-nimcache/
-nimblecache/
-htmldocs/
-testresults/
-/tests/*
-!/tests/*.nim
